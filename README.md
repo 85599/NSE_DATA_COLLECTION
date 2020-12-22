@@ -1,7 +1,7 @@
 # NSE_DATA_COLLECTION
 
 
-I explained how to collect `${nse option chain data}` using python script. This video is only for learning and education purpose only. If  you are doing any illegal activity using this code I am not responsible for that. Please read nse "terms of use"  https://www.nseindia.com/nse-terms-of... 
+I explained how to collect nse option chain data using python script. This video is only for learning and education purpose only. If  you are doing any illegal activity using this code I am not responsible for that. Please read nse "terms of use"  https://www.nseindia.com/nse-terms-of... 
 before running this script.
 
 
