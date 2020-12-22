@@ -7,4 +7,4 @@ before running this script.
 
 # Disclaimer:
 
-##### No Suggestion No Recommendation Trade at own risk. I am not sebi registered research analyst or financial adviser. Please consult your financial advisor before trading
+##### No Suggestion No Recommendation Trade at own risk. I am not sebi registered research analyst or financial adviser. Please consult your financial advisor before trading.
